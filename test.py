@@ -4,3 +4,7 @@ b = "hello"
 for a in b:
   print (a)
   print ("\n")
+
+print ("Thanks for your confirmation")
+
+return
